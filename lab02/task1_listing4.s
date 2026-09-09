@@ -26,6 +26,5 @@ loop:
     bne x9,x24, Exit 
     addi x22,x22,1
     beq x0,x0, loop
-
 Exit:
     j Exit 
