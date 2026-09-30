@@ -1,0 +1,11 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/hijab/Downloads/clock_divider.v,1790155131,verilog,,C:/Users/hijab/Downloads/debouncer.v,,clock_divider,,,,,,,,
+C:/Users/hijab/Downloads/debouncer.v,1790582716,verilog,,C:/Users/hijab/Downloads/leds.v,,debouncer,,,,,,,,
+C:/Users/hijab/Downloads/leds.v,1790582774,verilog,,C:/Users/hijab/Downloads/skeleton_top_fsm.v,,leds,,,,,,,,
+C:/Users/hijab/Downloads/skeleton_top_fsm.v,1790589096,verilog,,C:/Users/hijab/Downloads/switches.v,,top_fsm_system,,,,,,,,
+C:/Users/hijab/Downloads/switches.v,1790582858,verilog,,C:/Users/hijab/project_ca_lab/project_ca_lab.srcs/sim_1/new/top_fsm_tb.v,,switches,,,,,,,,
+C:/Users/hijab/project_ca_lab/project_ca_lab.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/hijab/project_ca_lab/project_ca_lab.srcs/sim_1/new/top_fsm_tb.v,1790589096,verilog,,,,top_fsm_tb,,,,,,,,
