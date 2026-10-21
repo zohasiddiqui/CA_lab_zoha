@@ -1,0 +1,13 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+PASS: Operation 0, x4 = 11111111
+PASS: Operation 1, x5 = 0f0f0f0f
+PASS: Operation 2, x6 = 00000000
+PASS: Operation 3, x7 = 11111111
+PASS: Operation 4, x8 = 11111111
+PASS: Operation 5, x9 = 02020200
+PASS: Operation 6, x10 = 00808080
+PASS: BEQ equal comparison
+PASS: BEQ flag register x11
+ALL INTEGRATION TESTS PASSED
+$finish called at time : 261 ns : File "C:/Users/hijab/Downloads/lab7/project_1/project_1.srcs/sim_1/new/RF_ALU_FSM_tb.v" Line 203
