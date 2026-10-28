@@ -1,0 +1,6 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+PASS: Memory read
+PASS: LED write
+PASS: Switch read
+$finish called at time : 50 ns : File "C:/Users/hijab/Downloads/lab8 vivado/lab8/lab8.srcs/sim_1/new/MemorySystem_tb.v" Line 83
